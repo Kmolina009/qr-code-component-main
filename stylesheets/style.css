@@ -42,11 +42,13 @@
   .qr-code-component-text h1{
     font-size: 1.4rem;
     font-weight: 700;
+    color: hsl(218, 44%, 22%);
   } 
   .qr-code-component-text p{
     margin-top: 1rem;
     font-size: 1.15rem;
     font-weight: 400;
+    color: hsl(220, 15%, 55%);
   }
 
   .attribution{
